@@ -3,7 +3,9 @@ This is the dataset for deep Ranking Technique for finding similair images. It i
 For Example
 
 ![Query Image](https://github.com/asad1996172/Deep-Ranking-Dataset/tree/master/dataset2/1985%2Bmustang_3774/Q.jpg)
+
 ![Positive Image](https://github.com/asad1996172/Deep-Ranking-Dataset/tree/master/dataset2/1985%2Bmustang_3774/P.jpg)
+
 ![Negative Image](https://github.com/asad1996172/Deep-Ranking-Dataset/tree/master/dataset2/1985%2Bmustang_3774/N.jpg)
 
 Adopted From : 
