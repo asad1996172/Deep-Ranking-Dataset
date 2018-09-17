@@ -1,6 +1,7 @@
 # Deep-Ranking-Dataset
-This is the dataset for deep Ranking Technique for finding similair images. It includes sets of 3 images. Orignal Image , a similar image and a dissimilar image. Script is also attached.
-Some examples of images include
-[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+This is the dataset for deep Ranking Technique for finding similair images. It includes sets of 3 images. Query Image , a positive result image for that query and a negative result image. Script is also attached.
+For Example
+Query Image
+[[https://github.com/asad1996172/Deep-Ranking-Dataset/tree/master/dataset2/1985%2Bmustang_3774/Q.png|alt=QueryImg]]
 
 Adopted From : [Learning Fine-grained Image Similarity with Deep Ranking] (https://users.eecs.northwestern.edu/~jwa368/pdfs/deep_ranking.pdf)
